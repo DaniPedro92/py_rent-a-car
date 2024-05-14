@@ -1,0 +1,130 @@
+[
+    {
+        "id": 2,
+        "nome": "Ze",
+        "NIF": "123123123",
+        "DataNascimento": "25-04-1974",
+        "Telefone": 456789123,
+        "email": "ze@gmail.com"
+    },
+    {
+        "id": 3,
+        "nome": "Ivo",
+        "NIF": "987654321",
+        "DataNascimento": "31-03-1980",
+        "Telefone": 321654987,
+        "email": "ivo@gmail.com"
+    },
+    {
+        "id": 4,
+        "nome": "Filipe",
+        "NIF": "963852741",
+        "DataNascimento": "25-05-1985",
+        "Telefone": 852147963,
+        "email": "filipe@gmail.com"
+    },
+    {
+        "id": 5,
+        "nome": "Joao",
+        "NIF": "951734268",
+        "DataNascimento": "02-02-1990",
+        "Telefone": 564789321,
+        "email": "joao1@gmail.com"
+    },
+    {
+        "id": 6,
+        "nome": "Manuel",
+        "NIF": "786874538",
+        "DataNascimento": "31-05-1985",
+        "Telefone": 985174533,
+        "email": "manuel@gmial.com"
+    },
+    {
+        "id": 7,
+        "nome": "Maria",
+        "NIF": "123456798",
+        "DataNascimento": "03-06-1998",
+        "Telefone": 947654385,
+        "email": "maria@gmail.com"
+    },
+    {
+        "id": 8,
+        "nome": "Luis",
+        "NIF": "123456987",
+        "DataNascimento": "06-06-1996",
+        "Telefone": 125487964,
+        "email": "luis@gmail.com"
+    },
+    {
+        "id": 9,
+        "nome": "Joao",
+        "NIF": "123456789",
+        "DataNascimento": "02-02-1990",
+        "Telefone": 123456789,
+        "email": "joao@gmail.com"
+    },
+    {
+        "id": 10,
+        "nome": "Maria",
+        "NIF": "597419746",
+        "DataNascimento": "29-04-1997",
+        "Telefone": 147852396,
+        "email": "maria@gmail.com"
+    },
+    {
+        "id": 11,
+        "nome": "Luisa",
+        "NIF": "974376481",
+        "DataNascimento": "29-03-1990",
+        "Telefone": 147852396,
+        "email": "luisa@gmail.com"
+    },
+    {
+        "id": 12,
+        "nome": "Duarte",
+        "NIF": "123890495",
+        "DataNascimento": "21-04-1996",
+        "Telefone": 987321654,
+        "email": "duarte@gmail.com"
+    },
+    {
+        "id": 13,
+        "nome": "Silvia",
+        "NIF": "123098435",
+        "DataNascimento": "06-09-1990",
+        "Telefone": 958342323,
+        "email": "silvia@gmial.com"
+    },
+    {
+        "id": 14,
+        "nome": "Zezito",
+        "NIF": "123567849",
+        "DataNascimento": "02-08-1994",
+        "Telefone": 215464789,
+        "email": "zezito@gmail.com"
+    },
+    {
+        "id": 15,
+        "nome": "Albertino",
+        "NIF": "875641296",
+        "DataNascimento": "03-08-1967",
+        "Telefone": 934812249,
+        "email": "albertino@gmail.com"
+    },
+    {
+        "id": 16,
+        "nome": "Dani",
+        "NIF": "264021983",
+        "DataNascimento": "14-03-1992",
+        "Telefone": 233435129,
+        "email": "masterdani@gmail.com"
+    },
+    {
+        "id": 17,
+        "nome": "Evaristo",
+        "NIF": "333444555",
+        "DataNascimento": "14-03-1991",
+        "Telefone": 969527644,
+        "email": "evaristo@mail.pt"
+    }
+]
